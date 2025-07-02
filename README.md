@@ -1,4 +1,4 @@
-<!-- SEO Meta Tags -->
+<link rel="icon" href="favicon.ico" type="image/x-icon" />
 <meta name="description" content="Mr. Sam Wealth | Personal Portfolio, Resume & Blog. Creative technologist with a love for simplicity.">
 <meta name="keywords" content="Sam Wealth, personal portfolio, resume, blog, Nigeria, tech, UI/UX">
 <meta name="author" content="Mr. Sam Wealth">
