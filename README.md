@@ -129,5 +129,16 @@ This website includes:
   <p>Your personal brand is your online identity. Start with a simple portfolio site, be consistent on social media, and always provide value. Share what you know and build a community around your skills.</p>
   <p><a href="index.html">← Back to Home</a></p>
 </body>
+</html><!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Lessons from Starting a Personal Website</title>
+</head>
+<body style="font-family: Arial; max-width: 800px; margin: auto; padding: 20px;">
+  <h1>Lessons from Starting a Personal Website</h1>
+  <p>Building a personal site teaches you clarity, design, and digital presence. You gain full control over your content and how the world sees you. It's a powerful step in any creative journey.</p>
+  <p><a href="index.html">← Back to Home</a></p>
+</body>
 </html>
-
