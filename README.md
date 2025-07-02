@@ -1,4 +1,12 @@
-<meta # # Blog Template
+<# Digital Product Landing Page
+
+This is a conversion-optimized landing page for digital products or services.
+
+## Features
+- Mobile-friendly
+- CTA button
+- Product/service feature sections
+- Fast load speed # # Blog Template
 
 A lightweight blog structure built with HTML.
 
