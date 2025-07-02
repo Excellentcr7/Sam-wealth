@@ -117,5 +117,17 @@ This website includes:
   <p>In today's digital world, simplicity is often the key to great design. Clean interfaces, fast-loading pages, and easy navigation are what users expect. A minimal design removes distractions and helps highlight your core message. Less is often more.</p>
   <p><a href="index.html">← Back to Home</a></p>
 </body>
+</<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>How to Build a Personal Brand</title>
+</head>
+<body style="font-family: Arial; max-width: 800px; margin: auto; padding: 20px;">
+  <h1>How to Build a Personal Brand</h1>
+  <p>Your personal brand is your online identity. Start with a simple portfolio site, be consistent on social media, and always provide value. Share what you know and build a community around your skills.</p>
+  <p><a href="index.html">← Back to Home</a></p>
+</body>
 </html>
 
