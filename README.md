@@ -1,4 +1,36 @@
-<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta http-<section id="portfolio">
+  <div class="card">
+    <h2>Portfolio</h2>
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px;">
+      
+      <div style="border: 1px solid #ccc; padding: 15px; border-radius: 8px;">
+        <h3>🌐 Personal Website</h3>
+        <p>My main portfolio with resume, blog, and contact form.</p>
+        <a href="https://excellentcr7.github.io/samwealth/" target="_blank">View Live</a> | 
+        <a href="https://github.com/excellentcr7/samwealth" target="_blank">GitHub</a>
+      </div>
+
+      <div style="border: 1px solid #ccc; padding: 15px; border-radius: 8px;">
+        <h3>📝 Blog Template</h3>
+        <p>Lightweight blog system with clean article layout.</p>
+        <a href="https://github.com/excellentcr7/blog-template" target="_blank">GitHub</a>
+      </div>
+
+      <div style="border: 1px solid #ccc; padding: 15px; border-radius: 8px;">
+        <h3>🎯 Landing Page</h3>
+        <p>High-converting design for any digital product or service.</p>
+        <a href="https://github.com/excellentcr7/landing-page" target="_blank">GitHub</a>
+      </div>
+
+      <div style="border: 1px solid #ccc; padding: 15px; border-radius: 8px;">
+        <h3>📨 Contact Form</h3>
+        <p>HTML + Formspree contact form with anti-spam setup.</p>
+        <a href="https://github.com/excellentcr7/form-contact" target="_blank">GitHub</a>
+      </div>
+
+    </div>
+  </div>
+</section>="X-UA-Compatible" content="IE=edge" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <link rel="icon" href="favicon.ico" type="image/x-icon" />
 <link rel="icon" href="favicon.ico" type="image/x-icon" />
