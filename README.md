@@ -1,4 +1,13 @@
-<meta # Sam Wealth – Personal Portfolio
+<meta # # Blog Template
+
+A lightweight blog structure built with HTML.
+
+## Features
+- Clean layout
+- Individual post pages (`blog1.html`, `blog2.html`)
+- Easy to update and style
+
+Perfect for developers who want to blog without WordPress. Wealth – Personal Portfolio
 
 This is my personal website built with HTML/CSS and GitHub Pages.
 
