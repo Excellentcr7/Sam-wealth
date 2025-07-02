@@ -1,3 +1,5 @@
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <link rel="icon" href="favicon.ico" type="image/x-icon" />
 <link rel="icon" href="favicon.ico" type="image/x-icon" />
 <meta name="description" content="Mr. Sam Wealth | Personal Portfolio, Resume & Blog. Creative technologist with a love for simplicity.">
