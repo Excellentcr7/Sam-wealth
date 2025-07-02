@@ -1,3 +1,14 @@
+<!-- SEO Meta Tags -->
+<meta name="description" content="Mr. Sam Wealth | Personal Portfolio, Resume & Blog. Creative technologist with a love for simplicity.">
+<meta name="keywords" content="Sam Wealth, personal portfolio, resume, blog, Nigeria, tech, UI/UX">
+<meta name="author" content="Mr. Sam Wealth">
+
+<!-- Social Media Preview -->
+<meta property="og:title" content="Mr. Sam Wealth | Portfolio & Resume">
+<meta property="og:description" content="Explore my blog, portfolio, and CV. Let’s build something simple and powerful.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://excellentcr7.github.io/samwealth/">
+<meta property="og:image" content="https://excellentcr7.github.io/samwealth/cover.jpg"> <!-- Optional if you add a preview image -->
 # Sam-wealth
 # Mr. Sam Wealth – Personal Portfolio & Blog
 
