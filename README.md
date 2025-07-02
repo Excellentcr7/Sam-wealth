@@ -1,5 +1,76 @@
-# Contact Form (Formspree)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Samwealth | Creative Web & Copy Solutions</title>
 
+  <!-- SEO Meta Tags -->
+  <meta name="description" content="Samwealth offers premium web design, copywriting, and branding solutions for creators and startups." />
+  <meta name="keywords" content="Samwealth, Web Developer, Copywriting, Branding, Nigeria, Portfolio, Freelance" />
+  <meta name="author" content="Samwealth" />
+
+  <!-- Social Media Preview (Open Graph) -->
+  <meta property="og:title" content="Samwealth | Creative Web & Copy Solutions" />
+  <meta property="og:description" content="Explore services, portfolio, and contact Samwealth for top-tier web and copy solutions." />
+  <meta property="og:image" content="https://excellentcr7.github.io/samwealth/assets/preview.jpg" />
+  <meta property="og:url" content="https://excellentcr7.github.io/samwealth/" />
+  <meta name="twitter:card" content="summary_large_image" />
+
+  <!-- Favicon -->
+  <link rel="icon" href="assets/favicon.png" type="image/png" />
+
+  <!-- Basic Styling -->
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: #f9f9f9;
+      color: #222;
+      text-align: center;
+      padding: 40px 20px;
+    }
+    header {
+      max-width: 800px;
+      margin: auto;
+    }
+    h1 {
+      font-size: 2.8em;
+      margin-bottom: 0.4em;
+    }
+    p {
+      font-size: 1.2em;
+      line-height: 1.6;
+    }
+    a.button {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 12px 24px;
+      background: #0066ff;
+      color: white;
+      text-decoration: none;
+      border-radius: 6px;
+    }
+    footer {
+      margin-top: 60px;
+      font-size: 0.9em;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Welcome to Samwealth</h1>
+    <p>I craft stunning websites, persuasive copy, and growth strategies for creators, brands, and businesses.</p>
+    <a href="mailto:Samwealth224@gmail.com" class="button">Contact Me</a>
+  </header>
+
+  <footer>
+    <p>&copy; 2025 Samwealth. All rights reserved.</p>
+  </footer>
+</body>
+</html>
+#contct form (formspree)
 A simple HTML contact form connected to Formspree.io.
 
 ## Features
