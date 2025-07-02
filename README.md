@@ -112,7 +112,18 @@ This website includes:
       <p>Location: Nigeria</p>
       <p><a href="https://facebook.com/share/1CKpRdLCbk/?mibextid=wwXIfr" target="_blank">Facebook</a></p>
     </div>
-  </section>
+  </<form action="https://formspree.io/f/mnqekbgz" method="POST">
+  <label>Name:</label><br>
+  <input type="text" name="name" required><br><br>
+  
+  <label>Email:</label><br>
+  <input type="email" name="email" required><br><br>
+  
+  <label>Message:</label><br>
+  <textarea name="message" rows="4" required></textarea><br><br>
+  
+  <button type="submit">Send Message</button>
+</form>
 
   <footer>
     <p>&copy; 2025 Mr. Sam Wealth. All rights reserved.</p>
