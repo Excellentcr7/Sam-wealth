@@ -1,4 +1,15 @@
-<meta http-<section id="portfolio">
+<meta # Sam Wealth – Personal Portfolio
+
+This is my personal website built with HTML/CSS and GitHub Pages.
+
+## Features
+- Responsive layout
+- Downloadable CV
+- Blog posts with separate pages
+- Contact form (via Formspree)
+- SEO & Social sharing optimization
+
+**Live:** https://excellentcr7.github.io/samwealth/-<section id="portfolio">
   <div class="card">
     <h2>Portfolio</h2>
     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px;">
