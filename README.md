@@ -1,4 +1,15 @@
-<# Digital Product Landing Page
+# Contact Form (Formspree)
+
+A simple HTML contact form connected to Formspree.io.
+
+## Features
+- No backend required
+- Responsive
+- Protected from spam
+- Submits directly to your email
+
+Great for portfolios or business pages.
+
 
 This is a conversion-optimized landing page for digital products or services.
 
